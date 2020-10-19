@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mySite/static/css/main.a4e4d1a0.chunk.css",
+    "main.js": "/mySite/static/js/main.d457874a.chunk.js",
+    "main.js.map": "/mySite/static/js/main.d457874a.chunk.js.map",
+    "runtime-main.js": "/mySite/static/js/runtime-main.8abf2596.js",
+    "runtime-main.js.map": "/mySite/static/js/runtime-main.8abf2596.js.map",
+    "static/js/2.3a1b38c4.chunk.js": "/mySite/static/js/2.3a1b38c4.chunk.js",
+    "static/js/2.3a1b38c4.chunk.js.map": "/mySite/static/js/2.3a1b38c4.chunk.js.map",
+    "index.html": "/mySite/index.html",
+    "precache-manifest.bcb2a4fd7e5d3ae1823e07d0c8c4f874.js": "/mySite/precache-manifest.bcb2a4fd7e5d3ae1823e07d0c8c4f874.js",
+    "service-worker.js": "/mySite/service-worker.js",
+    "static/css/main.a4e4d1a0.chunk.css.map": "/mySite/static/css/main.a4e4d1a0.chunk.css.map",
+    "static/js/2.3a1b38c4.chunk.js.LICENSE.txt": "/mySite/static/js/2.3a1b38c4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/mySite/static/media/ZhiMangXing-Regular.eeca044e.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8abf2596.js",
+    "static/js/2.3a1b38c4.chunk.js",
+    "static/css/main.a4e4d1a0.chunk.css",
+    "static/js/main.d457874a.chunk.js"
+  ]
+}
