@@ -1,5 +1,6 @@
 {
   "name": "justin73.github.io",
+  "homepage": "http://justin73.github.io/mySite",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,16 +11,22 @@
     "@types/node": "^12.0.0",
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
+    "elliptic": "^6.5.3",
+    "http-proxy": "^1.18.1",
+    "node-forge": "^0.10.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-scripts": "3.4.3",
-    "typescript": "~3.7.2"
+    "typescript": "~3.7.2",
+    "websocket-extensions": "^0.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -38,6 +45,7 @@
   },
   "devDependencies": {
     "@types/styled-components": "^5.1.4",
+    "gh-pages": "^3.1.0",
     "prettier": "^2.1.2",
     "styled-components": "^5.2.0"
   }
